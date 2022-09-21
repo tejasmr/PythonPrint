@@ -1,0 +1,10 @@
+C:\Users\tezz-io\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.deps.json
+C:\Users\tezz-io\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.dll
+C:\Users\tezz-io\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.pdb
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.csproj.AssemblyReference.cache
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.AssemblyInfoInputs.cache
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.AssemblyInfo.cs
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.csproj.CoreCompileInputs.cache
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.dll
+C:\Users\tezz-io\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PythonPrint</id>
+    <version>1.0.3</version>
+    <authors>Tejas M R</authors>
+    <description>Print function for C# just like in python!
+
+```cs
+using static Print.Print;
+
+class A {
+  static void Main() {
+    print(1, 2, "hi");
+    int[] arr = {1, 2, 3, 4};
+    print(arr);
+  }
+}
+```</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\tezz-io\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.dll" target="lib\netcoreapp3.1\Print.dll" />
+  </files>
+</package>

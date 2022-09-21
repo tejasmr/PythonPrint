@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>PythonPrint</PackageId>
+    <Authors>Tejas M R</Authors>
+    <Company>Tezz Inc</Company>
+    <Product>PythonPrint</Product>
+    <Description>Print function for C# just like in python!
+
+```cs
+using static Print.Print;
+
+class A {
+  static void Main() {
+    print(1, 2, "hi");
+    int[] arr = {1, 2, 3, 4};
+    print(arr);
+  }
+}
+```</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.6</Version>
+  </PropertyGroup>
+
+</Project>
